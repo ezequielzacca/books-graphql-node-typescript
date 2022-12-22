@@ -20,7 +20,7 @@
         "gulp-relative-sourcemaps-source": "^1.1.1",
         "gulp-sourcemaps": "^2.6.5",
         "gulp-typescript": "^6.0.0-alpha.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mysql": "^2.18.1",
         "typeorm": "^0.2.22"
     },
